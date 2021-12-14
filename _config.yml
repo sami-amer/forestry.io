@@ -14,20 +14,13 @@ plugins:
 - jekyll-paginate
 - jekyll-seo-tag
 authors:
-  sal:
+  sami:
     name: Sami Amer
     site: www.sami.ps
     avatar: "/assets/images/avatar1.jpg"
     bio: ''
     email: ''
     twitter: https://twitter.com/Sami_Amer_PS
-  jane:
-    name: Jane
-    site: https://www.wowthemes.net
-    avatar: "/assets/images/avatar2.jpg"
-    bio: Blogger, fashionista, love to explore new ideas and write on my morning coffee!
-    email: fakemail@gmail.com
-    twitter: https://twitter.com/wowthemesnet
 defaults:
 - scope:
     path: _posts
