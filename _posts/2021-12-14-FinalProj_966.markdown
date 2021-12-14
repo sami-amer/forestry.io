@@ -8,4 +8,4 @@ image: "/assets/images/newspaper.png"
 author: sami
 
 ---
-<embed src="/assets/9_66_final_project.pdf" type="application/pdf" style="width: 100%; height: 100vw"/>
+<embed src="/assets/files/9_66_final_project.pdf" type="application/pdf" style="width: 100%; height: 100vw"/>
