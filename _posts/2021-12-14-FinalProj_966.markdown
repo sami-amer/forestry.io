@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Understanding the Use of Inflammatory Headlines to Alter the Perception of an Article"
+date:   2021-12-13 12:41:52 +0300
+categories: projects
+---
+
+<embed src="/assets/9_66_final_project.pdf" type="application/pdf" style="width: 100%; height: 100vw"/>
