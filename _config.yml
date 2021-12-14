@@ -17,9 +17,9 @@ authors:
   sami:
     name: Sami Amer
     site: www.sami.ps
-    avatar: "/assets/images/avatar1.jpg"
+    avatar: "/assets/images/sami_profile.jpg"
     bio: ''
-    email: ''
+    email: zero.beefier.0r@icloud.com
     twitter: https://twitter.com/Sami_Amer_PS
 defaults:
 - scope:
