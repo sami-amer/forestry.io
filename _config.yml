@@ -9,11 +9,11 @@ include:
 - _pages
 permalink: "/:title/"
 plugins:
+- jekyll-menus
 - jekyll-feed
 - jekyll-sitemap
 - jekyll-paginate
 - jekyll-seo-tag
-- jekyll-menus
 authors:
   sami:
     name: Sami Amer
