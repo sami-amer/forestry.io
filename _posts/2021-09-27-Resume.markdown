@@ -5,8 +5,10 @@ date: '2021-09-27T08:23:52.000+03:00'
 categories:
 - experience
 author: sami
-image: "/assets/images/signature_white.png"
+image: "/assets/images/signature.png"
 tags: sticky featured
 
 ---
+My Resume, current as of December 15th, 2021
+
 <embed src="/assets/files/resume.pdf" type="application/pdf" style="width: 100%; height: 100vw"/>
