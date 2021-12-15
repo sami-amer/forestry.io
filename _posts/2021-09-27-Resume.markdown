@@ -6,7 +6,7 @@ categories:
 - experience
 author: sami
 image: "/assets/images/signature.png"
-tag: sticky
+tags: sticky featured
 
 ---
 <embed src="/assets/files/resume.pdf" type="application/pdf" style="width: 100%; height: 100vw"/>
