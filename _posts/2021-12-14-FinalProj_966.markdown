@@ -8,8 +8,8 @@ author: sami
 tag: featured
 
 ---
-It worked on you... This paper was my final project for 9.66, Computational Cognitive Science.  All the code can be found on [Github](https://github.com/sami-amer/headline-effects) 
+It worked on you... This paper was my final project for 9.66, Computational Cognitive Science.  All the code can be found on [Github](https://github.com/sami-amer/headline-effects)
 
-[iOS Compatible Link](www.sami.ps/assets/files/9_66_final_project.pdf)
+[iOS Compatible Link](assets/files/9_66_final_project.pdf)
 
 <embed src="/assets/files/9_66_final_project.pdf" type="application/pdf" style="width: 100%; height: 100vw"/>
