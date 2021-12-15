@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Understanding the Use of Inflammatory Headlines to Alter the Perception of
-  an Article
+title: Does Click-bait Work? Click Here to Find Out!
 date: '2021-12-13T12:41:52.000+03:00'
 categories: projects
 image: "/assets/images/newspaper.png"
