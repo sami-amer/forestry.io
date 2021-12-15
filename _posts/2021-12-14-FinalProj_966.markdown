@@ -8,6 +8,6 @@ author: sami
 tag: featured
 
 ---
-<iframe src="/assets/files/9_66_final_project.pdf" width="100vw" height="100%"> </iframe>
+<iframe src="/assets/files/9_66_final_project.pdf" width="100%" height="100%"> </iframe>
 
 <embed src="/assets/files/9_66_final_project.pdf" type="application/pdf" style="width: 100%; height: 100vw"/>
