@@ -19,6 +19,6 @@ Building off of 24.900 (Intro to Linguistics), this class walks you through the 
 
 If that introduction piqued your interest, my entire project is linked below.
 
-Feel free to use my language in any of your creations, just contact me to let me know.
+Feel free to use my language in any of your creations, just contact me to let me know. [For iOS](../../assets/files/ConLangsFinalProject.pdf)
 
 <embed src="/assets/files/ConLangsFinalProject.pdf" type="application/pdf" style="width: 100%; height: 100vw"/>
