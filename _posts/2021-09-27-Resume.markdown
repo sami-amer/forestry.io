@@ -4,6 +4,7 @@ title: Sami's Resume
 date: '2021-09-27T08:23:52.000+03:00'
 categories: experience
 author: sami
+image: "/assets/images/642px-mit_logo.png"
 
 ---
 <embed src="/assets/resume.pdf" type="application/pdf" style="width: 100%; height: 100vw"/>
