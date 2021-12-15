@@ -23,6 +23,8 @@ The notion that the only true way to protect free speech is to allow unmolested 
 
 References:
 
+Cover Photo is from [this](https://royalsocietypublishing.org/doi/10.1098/rsos.181122) paper
+
 Chowdhury & Belli. “Examining Algorithmic Amplification of Political Content on Twitter.” Accessed December 8, 2021. [https://blog.twitter.com/en_us/topics/company/2021/rml-politicalcontent.](https://blog.twitter.com/en_us/topics/company/2021/rml-politicalcontent. "https://blog.twitter.com/en_us/topics/company/2021/rml-politicalcontent.")
 
 TechCrunch. “Facebook Partially Documents Its Content Recommendation System.” Accessed December 8, 2021. [https://social.techcrunch.com/2020/08/31/facebook-partially-documents-its-content-recommendation-system/.](https://blog.twitter.com/en_us/topics/company/2021/rml-politicalcontent. "https://blog.twitter.com/en_us/topics/company/2021/rml-politicalcontent.")
