@@ -20,3 +20,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- _posts/the-moral-obligation-to-censor-echo-chambers.md
