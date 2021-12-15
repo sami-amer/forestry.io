@@ -19,6 +19,8 @@ Having discussed the moral duty of online discussion boards to control harmful g
 
 The notion that the only true way to protect free speech is to allow unmolested discussion is one of days past and does not hold in the context of this post-truth world. Mill’s arguments seem to play into the classic tolerance paradox: if we want to be maximally tolerant, then we must also tolerate intolerance — but then how are we tolerant? Mill’s arguments sacrifice nuance for scope, attempting to encapsulate all speech regardless of context. In a vacuum, these points are quite powerful and could serve as the basis for free speech discussion for years to come. Outside of this vacuum, it becomes crucial to understand the effects of speech on the real world, regardless of the amount of truth encapsulated in it. The entities that control these online discussion boards have a moral obligation to stop harmful speech on their platform from festering and affecting real people, and this obligation only becomes more dire when we consider many of these online communities are a direct result of algorithms employed to maximize profit margins. “The road to hell is paved with good intentions”: we should be careful that in our pursuit of freedom we do not allow those who wish to spread harm the same platform as the rest of us.
 
+\[Writer's Note: This was my final paper for 24.131, Ethics in Technology\]
+
 ***
 
 References:
