@@ -4,7 +4,7 @@ categories:
 - projects
 title: Creating a Language
 author: sami
-image: ''
+image: "/assets/images/Language_image.png"
 
 ---
 The pursuit of a linguistics concentration at MIT led me to take what I believe to be the the linguistics department's best class: 24.917, or Constructed Languages.
