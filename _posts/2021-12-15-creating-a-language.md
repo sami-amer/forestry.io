@@ -7,7 +7,7 @@ author: sami
 image: "/assets/images/Language_image.png"
 
 ---
-The pursuit of a linguistics concentration at MIT led me to take what I believe to be the the linguistics department's best class: 24.917, or Constructed Languages.
+The pursuit of a linguistics concentration at MIT led me to take what I believe to be the linguistics department's best class: 24.917, or Constructed Languages.
 
 Building off of 24.900 (Intro to Linguistics), this class walks you through the basics of linguistics and their applications, both in "real" languages like Arabic and Mandarin, and "fake" languages like Klingon or Dothraki. The somewhat weekly assignments were various tasks that guided you through the process of making a language from scratch, slowly but surely building up to the final project: a grammar of your invented language.  The introduction to my language goes as follows:
 
