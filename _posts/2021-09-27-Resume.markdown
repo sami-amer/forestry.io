@@ -9,4 +9,4 @@ image: "/assets/images/signature.png"
 tag: sticky
 
 ---
-<embed src="/assets/resume.pdf" type="application/pdf" style="width: 100%; height: 100vw"/>
+<embed src="/assets/files/resume.pdf" type="application/pdf" style="width: 100%; height: 100vw"/>
