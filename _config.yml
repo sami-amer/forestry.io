@@ -34,3 +34,5 @@ defaults:
   values:
     layout: page
 paginate: "10"
+# Google Analytics
+google_analytics: G-W0YBFRWLY7
