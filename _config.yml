@@ -18,7 +18,7 @@ authors:
   sami:
     name: Sami Amer
     site: www.sami.ps
-    avatar: "/assets/images/sami_profile.jpg"
+    avatar: "/assets/images/bk_bridge_cropped.jpeg"
     bio: ''
     email: contact@sami.ps
     twitter: https://twitter.com/Sami_Amer_PS
@@ -28,7 +28,7 @@ defaults:
   values:
     layout: post
     author: sami
-    avatar: "/assets/images/sami_profile.jpg"
+    avatar: "/assets/images/bk_bridge_cropped.jpeg"
 - scope:
     path: _pages
   values:
