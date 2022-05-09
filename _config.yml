@@ -1,8 +1,8 @@
 ---
 name: Sami Amer
 description: ''
-logo: assets/images/signature.png
-favicon: assets/images/favicon.ico
+logo: "/assets/images/signature.png"
+favicon: "/assets/images/favicon.ico"
 email: 'contact@sami.ps'
 mailchimp-list: ''
 include:
