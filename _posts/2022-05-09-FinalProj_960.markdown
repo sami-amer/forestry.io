@@ -3,12 +3,12 @@ layout: post
 title: Art Style Classification and Underrepresentation
 date: '2022-05-08T12:41:52.000+03:00'
 categories: projects
-image: "/assets/images/suerat.jpg"
+image: "/assets/images/seurat.jpg"
 author: sami
 tag: featured
 
 ---
-Cover image is Georges Seruat's /Study for "A Sunday on La Grande Jatte"/, and is downloaded from the Met's website (the image is public domain).
+Cover image is Georges Seruat's _Study for "A Sunday on La Grande Jatte"_, and is downloaded from the Met's website (the image is public domain).
 
 All the code for the paper can be found on [Github](https://github.com/sami-amer/art-style-classification)
 
