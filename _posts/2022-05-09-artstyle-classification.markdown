@@ -5,7 +5,6 @@ date: '2022-05-08T12:41:52.000+03:00'
 categories: projects
 image: "/assets/images/seurat.jpg"
 author: sami
-tag: featured
 
 ---
 Cover image is Georges Seruat's _Study for "A Sunday on La Grande Jatte"_, and is downloaded from the Met's website (the image is public domain).
