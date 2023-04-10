@@ -29,16 +29,16 @@ Cover Photo is from [this](https://royalsocietypublishing.org/doi/10.1098/rsos.1
 
 Chowdhury & Belli. “Examining Algorithmic Amplification of Political Content on Twitter.” Accessed December 8, 2021. [https://blog.twitter.com/en_us/topics/company/2021/rml-politicalcontent.](https://blog.twitter.com/en_us/topics/company/2021/rml-politicalcontent. "https://blog.twitter.com/en_us/topics/company/2021/rml-politicalcontent.")
 
-TechCrunch. “Facebook Partially Documents Its Content Recommendation System.” Accessed December 8, 2021. [https://social.techcrunch.com/2020/08/31/facebook-partially-documents-its-content-recommendation-system/.](https://blog.twitter.com/en_us/topics/company/2021/rml-politicalcontent. "https://blog.twitter.com/en_us/topics/company/2021/rml-politicalcontent.")
+TechCrunch. “Facebook Partially Documents Its Content Recommendation System.” Accessed December 8, 2021. [https://social.techcrunch.com/2020/08/31/facebook-partially-documents-its-content-recommendation-system/.](https://social.techcrunch.com/2020/08/31/facebook-partially-documents-its-content-recommendation-system/ "https://social.techcrunch.com/2020/08/31/facebook-partially-documents-its-content-recommendation-system/")
 
 Mill, John Stuart. _On Liberty_, 1859.
 
 Mill, Kevin. “24.131 - Class 22 - Freedom of Speech,” 2021.
 
-Nguyen, C. Thi. “ECHO CHAMBERS AND EPISTEMIC BUBBLES.” _Episteme_ 17, no. 2 (June 2020): 141–61. [https://doi.org/10.1017/epi.2018.32.](https://blog.twitter.com/en_us/topics/company/2021/rml-politicalcontent. "https://blog.twitter.com/en_us/topics/company/2021/rml-politicalcontent.")
+Nguyen, C. Thi. “ECHO CHAMBERS AND EPISTEMIC BUBBLES.” _Episteme_ 17, no. 2 (June 2020): 141–61. [https://doi.org/10.1017/epi.2018.32.](https://doi.org/10.1017/epi.2018.32. "https://doi.org/10.1017/epi.2018.32.")
 
 Popper, K.R. _The Open Society and Its Enemies_, 1945.
 
-The Federal Bureau of Investigation. “FBI Crime Statistics, Table 43,” 2019. [https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-43.](https://blog.twitter.com/en_us/topics/company/2021/rml-politicalcontent. "https://blog.twitter.com/en_us/topics/company/2021/rml-politicalcontent.")
+The Federal Bureau of Investigation. “FBI Crime Statistics, Table 43,” 2019. [https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-43.](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-43. "https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-43")
 
-Whittaker, J., S. Looney, A. Reed, and F. Votta. “Recommender Systems and the Amplification of Extremist Content.” _Internet Policy Review_ 10, no. 2 (2021). [https://doi.org/10.14763/2021.2.1565.](https://blog.twitter.com/en_us/topics/company/2021/rml-politicalcontent. "https://blog.twitter.com/en_us/topics/company/2021/rml-politicalcontent.")
+Whittaker, J., S. Looney, A. Reed, and F. Votta. “Recommender Systems and the Amplification of Extremist Content.” _Internet Policy Review_ 10, no. 2 (2021). [https://doi.org/10.14763/2021.2.1565.](https://doi.org/10.14763/2021.2.1565. "https://doi.org/10.14763/2021.2.1565.")
